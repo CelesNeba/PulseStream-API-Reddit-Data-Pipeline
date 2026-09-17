@@ -1,4 +1,4 @@
-# Reddit JSON streaming data pipeline & dashboard
+# PulseStream-API-Reddit-Data-Pipeline & dashboard
 
 ## Project overview
 
